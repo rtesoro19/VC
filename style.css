@@ -1,0 +1,193 @@
+body {
+  background-color: black;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.navbar {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+.navbar a {
+  padding-left: 10px;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+.main-header {
+  background-image: url('https://media.giphy.com/media/l46C73MlT3XjvTaA8/giphy.gif');
+  background-size: cover;
+  height: 500px;
+  margin-top: 0;
+}
+
+.main-header h1{
+  color: white;
+  font-size: 150px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  padding-top: 150px;
+  margin-top: 0;
+  opacity: 0.80;
+}
+
+.container{
+  margin-top: 160px;
+}
+
+.container > h1{
+  color: white;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 200px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.highschool,
+.college,
+.nba {
+  background-size: cover;
+  height: 300px;
+  width: 30%;
+  display: inline-block;
+}
+
+.img-title{
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  margin-top: 300px;
+  padding-left: 50px;
+}
+
+.highschool {
+  background-image: url('http://www.tarheeltimes.com/photos/unc_basketball_photos/photos/Vince%20Carter%20High%20School%20Dunk%20(2).jpg');
+  margin-left: 50px;
+  float: left;
+}
+
+.highschool p {
+  color: white;
+  font-family: 'Lobster', cursive;
+  padding-left: 10px;
+}
+
+.college {
+  background-image: url('http://thesportsfanjournal.com/wp-content/uploads/2014/02/vince-carter-north-carolina.jpg');
+  margin-left: 5px;
+}
+
+.college p {
+  color: white;
+  font-family: 'Shadows Into Light', cursive;
+  padding-left: 10px;
+}
+
+.nba {
+  background-image: url('http://www.imagesyoulike.com/images/v/32x24/v5699.jpg');
+}
+
+.career > h1{
+  color: white;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 150px;
+  margin-top: 150px;
+  margin-bottom: 0;
+}
+
+.career h3:not(#border) {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  display: inline-block;
+  margin-left: 130px;
+  margin-right: 20px;
+  margin-bottom: 0;
+  border-right: white solid 1px;
+  padding-right: 100px;
+}
+
+#border {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  display: inline-block;
+  margin-left: 130px;
+  margin-right: 20px;
+  margin-bottom: 0;
+  padding-right: 100px;
+}
+
+.career p{
+  color: white;
+  font-family: 'Amiri', serif;
+  font-size: 50px;
+  display: inline-block;
+  margin-top: 0;
+  margin-left: 103px;
+  margin-right: 20px;
+  padding-right: 100px;
+}
+
+.inst,
+.fb,
+.twit {
+  background-color: white;
+  background-position: center;
+  background-size: cover;
+  border-radius: 20px;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+.social {
+  padding-top: 100px;
+  padding-left: 530px;
+}
+.inst{
+  background-image: url('https://www.sketchappsources.com/resources/source-image/instagram-logo-sketch.png');
+}
+
+.fb {
+  background-image: url('https://n6-img-fp.akamaized.net/free-icon/facebook-letter-logo_318-40258.jpg?size=338&ext=jpg');
+}
+
+.twit {
+  background-image: url('https://image.freepik.com/free-icon/twitter-logo_318-40459.jpg');
+}
+
+.main-footer {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.main-content > h1 {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  padding-top: 60px;
+  padding-bottom: 0;
+  padding-left: 120px;
+}
+.main-content > p {
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.main-content .vid {
+  padding-top: 30px;
+  padding-left: 350px;
+}
